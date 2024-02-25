@@ -1,4 +1,4 @@
-# SVM_for_Cat_Dog_Image_Classification
+# Cat_and-Dog_Image_Classification-Using-SVM
 
 Support vector machine (SVM) algorithm
 
